@@ -1,4 +1,5 @@
-# KRIPTOGRAFI
+# tugas
+
 TUGAS PERTEMUAN KE 14
 
 Silakan membuat codingan dengan menggunakan XOR untuk Enkripsi dan Deskripsi dari materi 
