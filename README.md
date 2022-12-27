@@ -8,4 +8,4 @@ hanya link Githubs atau link Gitlabs
 
 # Scrip C++
 
-<img src="" img>
+<img src="scrip.png" img>
