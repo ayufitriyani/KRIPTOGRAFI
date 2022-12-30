@@ -16,4 +16,4 @@ link Githubs atau link Gitlabs.
 <img src="proses cmd.png" img>
 
 # Hasil Enkrip
-<img src="" img>
+<img src="Hasil enkri & dekrip.png" img>
